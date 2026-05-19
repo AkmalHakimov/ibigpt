@@ -1,0 +1,200 @@
+Example 1
+USER: Ассалом алейкум хаммаба рамазон муборак шават 😊😊😃😃😃😃😃❤️
+ASSISTANT: рахмат взаимно✊🌹
+----------------------------------------
+Example 2
+USER: Kiya soatash chan? Kiya soatash to'g'ri? TV yoki radio kati yaxel
+ASSISTANT: 03:44 хозирча
+----------------------------------------
+Example 3
+USER: Kiya soatash chan? Kiya soatash to'g'ri? TV yoki radio kati yaxel
+ASSISTANT: Online soata tax kunet
+----------------------------------------
+Example 4
+USER: Kamchilikku xalq. 1/7 gruppa budagi har 7 kasban yaktesh ro'za gitashtas. Mondagi 5 kas g'aflatba. 😐
+ASSISTANT: Hamma xudash baro'y javob metiyat! Hammaya xudashba yarasha sababash has, musofir, odami pir, kasalba farz ne sababasha nadonista dilozori kadan nag'z ne...
+----------------------------------------
+Example 5
+USER: Kamchilikku xalq. 1/7 gruppa budagi har 7 kasban yaktesh ro'za gitashtas. Mondagi 5 kas g'aflatba. 😐
+ASSISTANT: Может сахарлика карда бат медарон
+----------------------------------------
+Example 6
+USER: Мехезам мегет хоб мекашатда
+ASSISTANT: Хоб ширинда😇
+----------------------------------------
+Example 7
+USER: Hamma xudash baro'y javob metiyat! Hammaya xudashba yarasha sababash has, musofir, odami pir, kasalba farz ne sababasha nadonista dilozori kadan nag'z ne...
+ASSISTANT: Gapatan to'g'riyu. Guftan vazifomo budagesham ayodomo nabromdanash darkorda. Atrofomo budagi odamoya ro'zaba kashem mo'l shavem, haminoyam savobash rasad mo'go'mda
+----------------------------------------
+Example 8
+USER: Мехезам мегет хоб мекашатда
+ASSISTANT: Ин уже а шайтон не)))
+----------------------------------------
+Example 9
+USER: Ин уже а шайтон не)))
+ASSISTANT: Shaytona hichki krayni kada nametonat shaytono 1 ma kurortba
+----------------------------------------
+Example 10
+USER: Барвахт махкам кадангирем мушутми чику?)
+ASSISTANT: Xa farqash nes
+----------------------------------------
+Example 11
+USER: Мехезам мегет хоб мекашатда
+ASSISTANT: Хозир гуфтанки ; доим шайтона крайний мекунем майи рамазонба шайтоно занжирбанд мушут кори хато кунет нафси худатон
+----------------------------------------
+Example 12
+USER: Барвахт махкам кадангирем мушутми чику?)
+ASSISTANT: Факат барвах яла накунет шут
+----------------------------------------
+Example 13
+USER: Хозир гуфтанки ; доим шайтона крайний мекунем майи рамазонба шайтоно занжирбанд мушут кори хато кунет нафси худатон
+ASSISTANT: Ман хичи нагуфтемичику
+----------------------------------------
+Example 14
+USER: Kamchilikku xalq. 1/7 gruppa budagi har 7 kasban yaktesh ro'za gitashtas. Mondagi 5 kas g'aflatba. 😐
+ASSISTANT: Akun a Sahar gruppa daromda nanavisat, g'aflatba guftagesh neku😊
+----------------------------------------
+Example 15
+USER: Ассалом ин читухин группа
+ASSISTANT: Хозирча чакчак группа 😁
+----------------------------------------
+Example 16
+USER: Ruza kitago hamotonba olloh kuch quvvat tiyat iloyim dastikati ruzomoya qabul kada chi niyatba kitashta boshem da niyatomo rasonat inshaalloh🤲🙏
+ASSISTANT: Ilohim 🤲🤲🤲
+----------------------------------------
+Example 17
+USER: Ассалом ин читухин группа
+ASSISTANT: Дашумо ягон чиз даркор бошат, ягон саволотон бошат пурсиданмегирет донистаго жавоб менайсан. Кулай группа.
+----------------------------------------
+Example 18
+USER: Масалан чи
+ASSISTANT: Хамдигарба ёрдам медодаги группа
+----------------------------------------
+Example 19
+USER: 4:14 ба Ака махкам мекунет
+ASSISTANT: Рахмат ака
+----------------------------------------
+Example 20
+USER: Масалан чи
+ASSISTANT: Masalan,yagonjoya nomerash darkor shavat...
+----------------------------------------
+Example 21
+USER: Масалан чи
+ASSISTANT: Buxpesa nomerash chan? Gorgaza nomerash chan? Marokanda nomerash chan... ne tolko nomer lyuboy chiz
+----------------------------------------
+Example 22
+USER: Buxpesa nomerash chan? Gorgaza nomerash chan? Marokanda nomerash chan... ne tolko nomer lyuboy chiz
+ASSISTANT: Свет кай мушут, интернет нагз кор кадаштасми, шумоям кучотонба одамо гаштенми, гинеколог, лор, мебель заказ,телефон усто😁
+----------------------------------------
+Example 23
+USER: Свет кай мушут, интернет нагз кор кадаштасми, шумоям кучотонба одамо гаштенми, гинеколог, лор, мебель заказ,телефон усто😁
+ASSISTANT: dardi sarba chixalin dori munushan))
+----------------------------------------
+Example 24
+USER: Assalomu aleykum. Kadom kitob magazin yala? Afg'on shamoli 2 qism darkor bud agjo yobem mo'sho't
+ASSISTANT: Kitob olami
+----------------------------------------
+Example 25
+USER: Asalamu alaykum varahmatullohu va barakotuhu Mohi Ramazon muborak shavat hamotonba Ruzoton Illohim qabul shavat 🙏🏻Juma muborak🧕🏻🙏🏻
+ASSISTANT: Взаимно )
+----------------------------------------
+Example 26
+USER: Asalamu alaykum varahmatullohu va barakotuhu Mohi Ramazon muborak shavat hamotonba Ruzoton Illohim qabul shavat 🙏🏻Juma muborak🧕🏻🙏🏻
+ASSISTANT: Ассалому алейкум рахмат дахудатонам муборак шават.
+----------------------------------------
+Example 27
+USER: Kitob olami
+ASSISTANT: Nabudas in kitob
+----------------------------------------
+Example 28
+USER: Asalamu alaykum varahmatullohu va barakotuhu Mohi Ramazon muborak shavat hamotonba Ruzoton Illohim qabul shavat 🙏🏻Juma muborak🧕🏻🙏🏻
+ASSISTANT: Assalom raxmat xudatonbayam muborak shavat
+----------------------------------------
+Example 29
+USER: Assalomu aleykum. Kadom kitob magazin yala? Afg'on shamoli 2 qism darkor bud agjo yobem mo'sho't
+ASSISTANT: Elektronew bowatam muwutmi
+----------------------------------------
+Example 30
+USER: Elektronew bowatam muwutmi
+ASSISTANT: Ha farqash nes mojt pecat kada megirem
+----------------------------------------
+Example 31
+USER: mebaxweton bacho tunerchaba pult dagjo mefurowat
+ASSISTANT: Радиотехникаба
+----------------------------------------
+Example 32
+USER: xozir gujo yala namedonetonmi
+ASSISTANT: Намедонам лекин инаша
+----------------------------------------
+Example 33
+USER: Всем привет! у меня проблема маленькая помогите друзья...У меня закончился интернет трафик, а ждать до след. абонентской оплаты осталось 4 дня, но ждать не хочу...хочу чтобы снова дали тот же трафик за который я плачу каждый месяц...в персональном кабинете ничего не понятно...провайдер Uzonline
+ASSISTANT: они не должни отклуючать
+----------------------------------------
+Example 34
+USER: они не должни отклуючать
+ASSISTANT: Я знаю, но я не хочу платить сверхлимит....раньше была функция в кабинете Экстренный переход. А щас не могу найти
+----------------------------------------
+Example 35
+USER: Я знаю, но я не хочу платить сверхлимит....раньше была функция в кабинете Экстренный переход. А щас не могу найти
+ASSISTANT: тогда вам придётся звонить. 1084 или ишите нормолно от кабинета
+----------------------------------------
+Example 36
+USER: тогда вам придётся звонить. 1084 или ишите нормолно от кабинета
+ASSISTANT: в кабинете ничего не понятно...раньше было удобно
+----------------------------------------
+Example 37
+USER: Радиотехникаба
+ASSISTANT: Magazin Elektronika. Melodiya
+----------------------------------------
+Example 38
+USER: Рахматтт
+ASSISTANT: Намеарзат
+----------------------------------------
+Example 39
+USER: Ki medonat periadrisatsiya ctu mekunan kod kati
+ASSISTANT: Ki medonat simkartaya kadanam darkor doneton guyeton
+----------------------------------------
+Example 40
+USER: Ki medonat simkartaya kadanam darkor doneton guyeton
+ASSISTANT: *21*9989????? # gudok
+----------------------------------------
+Example 41
+USER: *21*9989????? # gudok
+ASSISTANT: Nashudashtasku a pagoyi boza mekunam xudamam in koda medonam lekin nashudashtas 🤦‍♂
+----------------------------------------
+Example 42
+USER: Nashudashtasku a pagoyi boza mekunam xudamam in koda medonam lekin nashudashtas 🤦‍♂
+ASSISTANT: Ака кор намекунат уже. Ким кай гита хавдодан ин кода
+----------------------------------------
+Example 43
+USER: Ака кор намекунат уже. Ким кай гита хавдодан ин кода
+ASSISTANT: Ctu kunam periadrisatsa xay ?
+----------------------------------------
+Example 44
+USER: Nashudashtasku a pagoyi boza mekunam xudamam in koda medonam lekin nashudashtas 🤦‍♂
+ASSISTANT: Настройкабам мешудку як пайто
+----------------------------------------
+Example 45
+USER: Ctu kunam periadrisatsa xay ?
+ASSISTANT: Нес хозир. Манам анча кофтам
+----------------------------------------
+Example 46
+USER: Skret nomer kati choto diga nomerba buromada moshot
+ASSISTANT: # monda nomer menaviset #99891.....
+----------------------------------------
+Example 47
+USER: Настройкабам мешудку як пайто
+ASSISTANT: Kareskida tel famdan qyin hamtu
+----------------------------------------
+Example 48
+USER: Prastoy tel kas ime kod mepursat damaynem zada
+ASSISTANT: Anintu kunet mushut akajon
+----------------------------------------
+Example 49
+USER: Ассалом, рузаба тухум хурдан мумкинми?
+ASSISTANT: Товук хуретам мушут
+----------------------------------------
+Example 50
+USER: Ассалом, рузаба тухум хурдан мумкинми?
+ASSISTANT: Faqti iftori dilaton xosidagi chiza xuret gayraz xudo xarom kadagi chizo
+----------------------------------------

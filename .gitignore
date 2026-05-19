@@ -1,0 +1,17 @@
+# Dataset files
+*.jsonl
+dataset/
+dataset_split_report.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# macOS
+.DS_Store
